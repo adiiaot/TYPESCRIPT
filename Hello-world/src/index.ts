@@ -5,4 +5,4 @@ let level;
 
 function render(document: any){
     console.log(document);
-}
+} 
