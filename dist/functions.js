@@ -5,5 +5,4 @@ function calculateTax(income, taxYear = 2022) {
     return income * 1.3;
 }
 calculateTax(10000);
-console.log(calculateTax);
 //# sourceMappingURL=functions.js.map
